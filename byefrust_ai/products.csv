@@ -1,0 +1,32 @@
+product_name,price,category,performance_score,battery_score,display_score,portability_score,durability_score,longevity_score,style_tag,use_case_tags,specs_text,dedicated_gpu,min_ram,min_storage
+Dell XPS 13,105000,Laptop,4,4,5,5,4,4,Professional,"Work, Casual",Intel i7 16GB RAM 512GB SSD 13.4 FHD+,No,16,512
+MacBook Air M2,115000,Laptop,4,5,5,5,5,5,Professional,"Work, Study, Casual, Creative",Apple M2 8GB RAM 256GB SSD 13.6 Liquid Retina,No,8,256
+MacBook Pro 14 M3,169000,Laptop,5,5,5,4,5,5,Professional,"Work, Creative, Programming",Apple M3 16GB RAM 512GB SSD 14.2 Liquid Retina XDR,No,16,512
+ASUS ROG Zephyrus G14,145000,Laptop,5,3,4,4,4,4,Gaming,"Gaming, Creative, Programming",AMD Ryzen 9 RTX 4060 16GB RAM 1TB SSD 14 QHD,Yes,16,1024
+HP Victus 15,65000,Laptop,4,3,3,3,3,3,Gaming,"Gaming, Study, Casual",Intel i5 GTX 1650 8GB RAM 512GB SSD 15.6 FHD,Yes,8,512
+Lenovo ThinkPad X1 Carbon,135000,Laptop,4,4,4,5,5,5,Professional,"Work, Programming",Intel i7 16GB RAM 512GB SSD 14 WUXGA,No,16,512
+Acer Nitro 5,75000,Laptop,4,2,3,2,3,3,Gaming,"Gaming, Casual",Intel i7 RTX 3050 16GB RAM 512GB SSD 15.6 FHD,Yes,16,512
+Dell Inspiron 15,45000,Laptop,3,3,3,3,3,3,Professional,"Study, Casual",Intel i3 8GB RAM 256GB SSD 15.6 FHD,No,8,256
+HP Pavilion 14,55000,Laptop,3,4,3,4,3,3,Fancy,"Study, Casual, Work",Intel i5 8GB RAM 512GB SSD 14 FHD,No,8,512
+Lenovo IdeaPad Slim 3,35000,Laptop,2,3,2,4,3,2,Professional,"Study, Casual",Intel i3 8GB RAM 256GB SSD 15.6 FHD,No,8,256
+ASUS VivoBook 15,40000,Laptop,3,3,3,3,3,3,Fancy,"Study, Casual",AMD Ryzen 5 8GB RAM 512GB SSD 15.6 FHD,No,8,512
+Apple iPhone 15,75000,Smartphone,5,4,5,5,4,5,Fancy,"Casual, Creative, Work",A16 Bionic 6GB RAM 128GB Storage 6.1 OLED,No,6,128
+Apple iPhone 15 Pro,130000,Smartphone,5,4,5,5,5,5,Professional,"Casual, Creative, Work, Gaming",A17 Pro 8GB RAM 256GB Storage 6.1 OLED,No,8,256
+Samsung Galaxy S24 Ultra,125000,Smartphone,5,5,5,4,5,5,Professional,"Work, Creative, Gaming",Snapdragon 8 Gen 3 12GB RAM 256GB Storage 6.8 AMOLED,No,12,256
+Samsung Galaxy S24,75000,Smartphone,4,4,5,5,4,4,Fancy,"Casual, Work",Exynos 2400 8GB RAM 256GB Storage 6.2 AMOLED,No,8,256
+Google Pixel 8,65000,Smartphone,4,3,4,5,4,4,Fancy,"Casual, Creative",Tensor G3 8GB RAM 128GB Storage 6.2 OLED,No,8,128
+Google Pixel 8 Pro,95000,Smartphone,4,4,5,4,4,4,Professional,"Casual, Creative, Work",Tensor G3 12GB RAM 128GB Storage 6.7 OLED,No,12,128
+OnePlus 12,65000,Smartphone,5,5,5,4,4,4,Fancy,"Gaming, Casual, Work",Snapdragon 8 Gen 3 12GB RAM 256GB Storage 6.82 AMOLED,No,12,256
+OnePlus 12R,40000,Smartphone,4,5,4,4,4,3,Fancy,"Gaming, Casual",Snapdragon 8 Gen 2 8GB RAM 128GB Storage 6.78 AMOLED,No,8,128
+Nothing Phone (2),45000,Smartphone,4,4,4,4,4,3,Fancy,"Casual, Creative",Snapdragon 8+ Gen 1 12GB RAM 256GB Storage 6.7 OLED,No,12,256
+Xiaomi 14,70000,Smartphone,5,4,5,5,4,4,Fancy,"Casual, Creative, Gaming",Snapdragon 8 Gen 3 12GB RAM 256GB Storage 6.36 AMOLED,No,12,256
+Redmi Note 13 Pro,25000,Smartphone,3,4,4,4,3,2,Fancy,"Casual, Study",Snapdragon 7s Gen 2 8GB RAM 128GB Storage 6.67 AMOLED,No,8,128
+Poco X6 Pro,28000,Smartphone,4,4,4,4,3,2,Gaming,"Gaming, Casual",Dimensity 8300 Ultra 8GB RAM 256GB Storage 6.67 AMOLED,No,8,256
+Motorola Edge 50 Pro,32000,Smartphone,4,3,4,5,4,3,Fancy,"Casual, Work",Snapdragon 7 Gen 3 8GB RAM 256GB Storage 6.7 pOLED,No,8,256
+Samsung Galaxy A55,40000,Smartphone,3,4,4,4,4,4,Professional,"Casual, Work, Study",Exynos 1480 8GB RAM 128GB Storage 6.6 AMOLED,No,8,128
+iQOO 12,53000,Smartphone,5,4,4,4,4,4,Gaming,"Gaming, Casual",Snapdragon 8 Gen 3 12GB RAM 256GB Storage 6.78 AMOLED,No,12,256
+Realme 12 Pro+,30000,Smartphone,3,4,4,4,3,2,Fancy,"Casual, Creative",Snapdragon 7s Gen 2 8GB RAM 128GB Storage 6.7 AMOLED,No,8,128
+Vivo V30 Pro,42000,Smartphone,4,4,4,5,3,3,Fancy,"Casual, Creative",Dimensity 8200 8GB RAM 256GB Storage 6.78 AMOLED,No,8,256
+ASUS ROG Phone 8 Pro,95000,Smartphone,5,5,4,3,4,4,Gaming,"Gaming",Snapdragon 8 Gen 3 16GB RAM 512GB Storage 6.78 AMOLED,No,16,512
+Lenovo Legion Slim 5,105000,Laptop,4,3,4,3,4,4,Gaming,"Gaming, Creative",AMD Ryzen 7 RTX 4060 16GB RAM 512GB SSD 16 WQXGA,Yes,16,512
+Microsoft Surface Laptop 5,95000,Laptop,3,4,4,5,4,4,Professional,"Work, Casual",Intel i5 8GB RAM 256GB SSD 13.5 PixelSense,No,8,256
